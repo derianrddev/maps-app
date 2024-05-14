@@ -1,0 +1,26 @@
+#map {
+  width: 100vw;
+  height: 100vh;
+}
+
+ul {
+  width: 120px;
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+  background-color: white;
+  max-height: calc(100vh - 120px);
+  overflow-y: hidden;
+}
+
+li {
+  width: 100%;
+  min-height: 40px;
+}
+
+button {
+  position: fixed;
+  bottom: 30px;
+  right: 20px;
+}
