@@ -7,7 +7,7 @@ interface Properties {
 }
 
 @Component({
-  selector: 'app-properties-page',
+  selector: 'maps-properties-page',
   templateUrl: './properties-page.component.html',
   styleUrl: './properties-page.component.css'
 })

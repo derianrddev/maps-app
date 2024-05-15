@@ -2,7 +2,7 @@ import { AfterViewInit, Component, ElementRef, ViewChild } from '@angular/core';
 import { Map } from 'mapbox-gl';
 
 @Component({
-  selector: 'app-full-screen-page',
+  selector: 'maps-full-screen-page',
   templateUrl: './full-screen-page.component.html',
   styleUrl: './full-screen-page.component.css'
 })

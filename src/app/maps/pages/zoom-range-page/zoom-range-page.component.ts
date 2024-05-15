@@ -2,7 +2,7 @@ import { AfterViewInit, Component, ElementRef, OnDestroy, ViewChild } from '@ang
 import { LngLat, Map } from 'mapbox-gl';
 
 @Component({
-  selector: 'app-zoom-range-page',
+  selector: 'maps-zoom-range-page',
   templateUrl: './zoom-range-page.component.html',
   styleUrl: './zoom-range-page.component.css'
 })

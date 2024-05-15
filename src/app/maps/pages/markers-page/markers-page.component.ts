@@ -12,7 +12,7 @@ interface PlainMarker {
 }
 
 @Component({
-  selector: 'app-markers-page',
+  selector: 'maps-markers-page',
   templateUrl: './markers-page.component.html',
   styleUrl: './markers-page.component.css'
 })
