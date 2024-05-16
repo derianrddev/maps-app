@@ -1,6 +1,6 @@
 # Maps App
 
-This project consists of an application that uses the Mapbox library to display an interactive map. The application allows to display the map in full screen, zoom in, add markers and access a list of properties.
+This project consists of an application that uses the Mapbox library to display an interactive map. The application allows to display the map in full screen, zoom in, add markers and access a list of properties. Based on a project that is part of the Angular course "Angular: From zero to expert" by Fernando Herrera.
 
 ## How to run it
 1. Clone the .env.template and rename it to .env.
